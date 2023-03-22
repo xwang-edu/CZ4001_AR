@@ -1,4 +1,4 @@
-Library: E:\github_workspace\ARtemplate\AR_Template_Zip\AR_Template_Project\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+Library: E:\github_workspace\CZ4001_AR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-14
 --target=ARMV8A_AARCH64
@@ -133,8 +133,8 @@ Library: E:\github_workspace\ARtemplate\AR_Template_Zip\AR_Template_Project\Temp
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=UNITY_ANALYTICS
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\github_workspace\ARtemplate\AR_Template_Zip\AR_Template_Project\Temp\Burst
---output=E:\github_workspace\ARtemplate\AR_Template_Zip\AR_Template_Project\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+--temp-folder=E:\github_workspace\CZ4001_AR\Temp\Burst
+--output=E:\github_workspace\CZ4001_AR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
