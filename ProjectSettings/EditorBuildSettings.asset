@@ -5,15 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Scene_1.unity
-    guid: 65db25fe8196542eb9a8532e79d51ad8
-  - enabled: 0
-    path: Assets/Scenes/Basix_Face_Filter.unity
-    guid: bc09aa7073f994e168e8f17222fc6c97
   - enabled: 1
-    path: Assets/Scenes/Interactive.unity
-    guid: 4921f35af73034785b7f510a7562f7a4
+    path: Assets/Scenes/home.unity
+    guid: 8be471973ef29514fa181d6636f5d392
+  - enabled: 1
+    path: Assets/Scenes/Halloween.unity
+    guid: 3592bf1dfcbd24944950eb4fb7e2885c
+  - enabled: 1
+    path: Assets/Scenes/HalloweenFront.unity
+    guid: 597869dba05304c568eed3195b16176f
+  - enabled: 1
+    path: Assets/Scenes/Christmas.unity
+    guid: 46eeef926fa994dde8dfbdb653de6544
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}

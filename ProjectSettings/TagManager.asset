@@ -7,6 +7,9 @@ TagManager:
   - simple
   - stars
   - monocle
+  - StopPlacing
+  - Ignite
+  - Audio
   layers:
   - Default
   - TransparentFX
