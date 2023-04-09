@@ -2995,6 +2995,7 @@ GameObject:
   - component: {fileID: 1125729858}
   - component: {fileID: 1125729857}
   - component: {fileID: 1125729856}
+  - component: {fileID: 1125729863}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -3171,6 +3172,23 @@ MonoBehaviour:
     type: 3}
   button: {fileID: 316141814}
   slider: {fileID: 927442234}
+--- !u!114 &1125729863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125729850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedLibrary: {fileID: 11400000, guid: 35771f4b8d5674a8d90ff493ee906ebf,
+    type: 2}
+  m_MaxNumberOfMovingImages: 3
+  m_TrackedImagePrefab: {fileID: 5864058869334603250, guid: bd26d8adcd95e49b0ba2ef94e9fcb016,
+    type: 3}
 --- !u!1 &1167446570
 GameObject:
   m_ObjectHideFlags: 0
