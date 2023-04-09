@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Settings/Project Configuration/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/home.unity
+    guid: 8be471973ef29514fa181d6636f5d392
+  - enabled: 1
+    path: Assets/Scenes/Halloween.unity
+    guid: 3592bf1dfcbd24944950eb4fb7e2885c
+  - enabled: 1
+    path: Assets/Scenes/HalloweenFront.unity
+    guid: 597869dba05304c568eed3195b16176f
+  - enabled: 1
+    path: Assets/Scenes/Christmas.unity
+    guid: 46eeef926fa994dde8dfbdb653de6544
+  - enabled: 1
+    path: Assets/Scenes/ChristmasFront.unity
+    guid: 175b45f6fe1de474ab22690732075cfe
+  - enabled: 1
+    path: Assets/Scenes/SaintPatrick.unity
+    guid: 7089ef6fa9b7e47ac92b3680dc49930f
+  - enabled: 1
+    path: Assets/Scenes/SaintPatrickFront.unity
+    guid: 44a7829f92226475aa22788e70fbb49e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
